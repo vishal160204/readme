@@ -1,2 +1,1 @@
-# readme
-this is new line
+hi, hello ,now you are in readme.md file.
